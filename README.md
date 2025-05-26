@@ -49,6 +49,10 @@ except Exception as e:
 ## Input and Output Image :
 ![jinsakai](https://github.com/user-attachments/assets/4932b704-9c74-496d-a7fe-ac58f85f053b)
 
+![Unknown](https://github.com/user-attachments/assets/7a2441c5-142f-41fb-9033-dd232eef6610)
+
+
+
 
 ## Result :
 The program converts input.jpg to grayscale using OpenCV’s cvtColor function.The original and grayscale images are displayed, and the grayscale image is saved as grayscale_output.jpg.
